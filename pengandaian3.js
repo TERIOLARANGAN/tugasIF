@@ -15,6 +15,6 @@ case "panah kiri":
 instruksi = "ke kiri";
     break;
 default:
-instruksi = "diam";
+instruksi = "anda tidak menuliskan kalimat sesuai instruksi";
 }
 document.write(instruksi);
